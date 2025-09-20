@@ -23,5 +23,5 @@
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true
   },
-  "include": ["src", "components/MemberList.tsx", "components/todolist.tsx"]
+  "include": ["src", "src/components/MemberList.tsx", "src/components/todolist.tsx"]
 }
